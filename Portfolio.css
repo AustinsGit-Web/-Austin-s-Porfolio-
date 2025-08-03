@@ -31,7 +31,7 @@
 
 .page-1 {
     width: 100%;
-    height: 100vh;
+    height: 100dvh;
     background: linear-gradient(454deg, black, #1e1c1d, silver);
 }
 
@@ -109,7 +109,7 @@ section > h2 {
 
 .page-2 {
     width: 100%;
-    height: 100vh;
+    height: 100dvh;
     background: linear-gradient(888deg,silver, rgb(153, 153, 153), rgb(58, 57, 57));
 
 }
@@ -240,7 +240,7 @@ section > h2 {
 
 .page-3 {
     width: 100%;
-    height: 100vh;
+    height: 100dvh;
     background: linear-gradient(454deg, silver, #1e1c1d, black);
     overflow: hidden;
 }
